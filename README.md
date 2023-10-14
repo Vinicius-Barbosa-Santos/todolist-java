@@ -29,6 +29,4 @@ Este repositório contém recursos relacionados ao Curso Gratuito da Rocketseat 
 - Abra o projeto em sua IDE Java preferida.
 - Execute a aplicação.
 
-Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
-
 
