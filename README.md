@@ -25,7 +25,7 @@ Este repositório contém recursos relacionados ao Curso Gratuito da Rocketseat 
 
 ## 🚀 Como executar
 
-- Clone o repositório: git clone ```bash git clone https://github.com/seu-usuario/java-todolist-rocketseat.git```
+- Clone o repositório: ```bash git clone https://github.com/seu-usuario/java-todolist-rocketseat.git```
 - Abra o projeto em sua IDE Java preferida.
 - Execute a aplicação.
 
