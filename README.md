@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este repositório contém recursos relacionados ao Curso Gratuito da Rocketseat sobre Java usando a tecnologia Spring. O curso oferece uma introdução abrangente ao desenvolvimento de aplicativos Java com o framework Spring, abordando tópicos fundamentais e práticos.
+Este repositório engloba materiais relacionados ao Curso Gratuito da Rocketseat sobre Java, utilizando a tecnologia Spring. O curso proporciona uma introdução abrangente ao desenvolvimento de aplicativos Java com o framework Spring, abordando temas essenciais de forma teórica e prática.
 
 ## 🚀 Como executar
 
